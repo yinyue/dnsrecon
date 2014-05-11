@@ -1,0 +1,1 @@
+DNSRecon是一款针对DNS的安全探测工具，包含多项枚举探测功能，包括DNS域传送、DNS递归等。http://www.freebuf.com/tools/23551.html
